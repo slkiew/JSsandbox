@@ -1,2 +1,2 @@
 # JSsandbox
-space to learn .JS, created to share files with Brother ...
+space to learn .JS
